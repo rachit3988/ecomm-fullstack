@@ -1,0 +1,6 @@
+[submodule "android-app"]
+	path = android-app
+	url = https://github.com/rachit3988/ecomm-kotlin-app
+[submodule "backend"]
+	path = backend
+	url = https://github.com/rachit3988/ecom-go-backend
